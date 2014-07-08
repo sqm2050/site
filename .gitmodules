@@ -1,3 +1,9 @@
 [submodule ".deploy"]
 	path = .deploy
 	url = git@github.com:sqm2050/sqm2050.github.com.git
+[submodule "themes/winterland"]
+	path = themes/winterland
+	url = git://github.com/winterland1989/hexo-theme-winterland.git
+[submodule "themes/pacman"]
+	path = themes/pacman
+	url = https://github.com/A-limon/pacman.git
